@@ -1,0 +1,5 @@
+name: MainBungeecord
+version: '${project.version}'
+main: network.mainbungeecord.mainbungeecord.MainBungeecord
+description: bungeecord main plogin
+command:
